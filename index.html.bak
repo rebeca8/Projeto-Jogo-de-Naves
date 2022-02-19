@@ -38,7 +38,7 @@
 <script type="text/javascript" src="js/jquery-collision.min.js"></script>
 
     <footer class="rodape" align=center font-size=verdana>
-        <p class="rodape2">Desenvolvido como projeto da Digital Innovation One  por Inessa Rebeca</p>
+        <p class="rodape2 text-center ">Desenvolvido como projeto da Digital Innovation One  por Inessa Rebeca</p>
     </footer>
 </body>
 </html>
